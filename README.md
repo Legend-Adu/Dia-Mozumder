@@ -1,13 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dia%20Mozumder&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Web%20Developer&descSize=20&descAlignY=72" alt="Banner" />
+  <img src="Github-dia/banner.png" alt="Banner" width="100%" />
 </p>
-
 <h1 align="center">Hi, I'm Dia Mozumder 👋</h1>
 <h3 align="center">Aspiring Web Developer | Computer Science Student</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp;•&nbsp; 📧 your.email@example.com
+  📍 Sylhet, Bangladesh &nbsp;•&nbsp; 📧 your.email@example.com
 </p>
 
 ---
