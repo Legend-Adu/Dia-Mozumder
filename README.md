@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Github-dia/banner.png" alt="Banner" width="100%" />
+  <img src="images/banner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi, I'm Dia Mozumder 👋</h1>
 <h3 align="center">Aspiring Web Developer | Computer Science Student</h3>
